@@ -1,0 +1,18 @@
+package com.javarush.task.task04.task0403;
+
+/* 
+Как зовут кота?
+*/
+
+public class Cat {
+    private String name;
+
+    public void setName(String name) {
+        this.name = name;
+        //напишите тут ваш код
+    }
+
+    public static void main(String[] args) {
+
+    }
+}
